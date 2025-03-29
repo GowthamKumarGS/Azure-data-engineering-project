@@ -4,6 +4,9 @@
 ## **Project Overview**
 This project implements an **end-to-end data pipeline** using **Azure services** while following the **Medallion Architecture** (Bronze, Silver, Gold). The data is sourced from **GitHub API (HTTP Source)**, ingested and transformed using **Azure Data Factory, Azure Databricks, and Azure Synapse Analytics**, and finally visualized using **Power BI**.
 
+<img width="855" alt="projectFlowArchitecture" src="https://github.com/user-attachments/assets/8c73cfd1-ccf3-43d7-886c-e7644e36bf1c" />
+
+
 ## **Technologies Used**
 - **Azure Data Factory (ADF)** → Data Ingestion  
 - **Azure Data Lake Storage Gen2 (ADLS G2)** → Data Storage  
