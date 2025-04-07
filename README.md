@@ -1,4 +1,4 @@
-# Azure-data-engineering-project
+# Azure data engineering project End-to-end
 ## **Azure Data Pipeline - Medallion Architecture (Bronze, Silver, Gold)**
 
 ## **Project Overview**
